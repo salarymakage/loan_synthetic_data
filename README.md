@@ -72,7 +72,7 @@ Below are some screenshots showcasing the user interface for the loan applicatio
 ![Loan Approval Details](image/Screenshot%202025-02-07%20101615.png)
 
 ### **Loan Summary View**
-![Loan Summary View](image/Screenshot%202025-02-07%20101615.png)
+![Loan Summary View](image/Screenshot%202025-02-07%20101602.png)
 
 ---
 
