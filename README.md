@@ -79,4 +79,4 @@ Below are some screenshots showcasing the user interface for the loan applicatio
 ## **Conclusion**
 - **Version 1** provides high accuracy but requires more computational resources.
 - **Version 2** simplifies the model while maintaining strong predictive power.
-- **Django** Create the interface for user to input. m 
+- **Django** Create the interface for user to input https://github.com/salarymakage/Loan-Advisor.git
