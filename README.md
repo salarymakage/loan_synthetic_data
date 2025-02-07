@@ -51,14 +51,10 @@ Our project involves two versions of synthetic data for predicting **Risk Level*
 ---
 
 ## **Implementation in Django**
-When implementing this model with Django, the focus will be on integrating the machine learning models into the backend API. The setup process will not be emphasized, as the priority is on:
-- Creating **API endpoints** for model inference.
-- Handling **data preprocessing** before feeding inputs to the model.
+When implementing this model with Django, the focus will be on integrating the machine learning models into the fullstack. The setup process will not be emphasized, as the priority is on:
+- Using **Django** for user inference easy for looking and input.
+- User input the **data** in the form of the website the model is going to predict.
 - **Serializing model predictions** into JSON responses.
-- Implementing **asynchronous requests** for efficiency in model execution.
-- Ensuring **security** in handling user data and predictions.
-
-Django REST Framework (DRF) will be used for building the API, and joblib will be utilized to load pre-trained models efficiently.
 
 ---
 
